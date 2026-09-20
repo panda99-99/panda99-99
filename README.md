@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm [Rohit Patil] 👋
 
-<!--
-**panda99-99/panda99-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring Ethical Hacker and Cyber Security Professional with a strong interest in penetration testing, security research, and application security. I’m actively looking for entry-level opportunities such as Junior Pentester, SOC Analyst, or AppSec Fresher.
 
-Here are some ideas to get you started:
+### 🔐 What I’m Up To
+- 🔭 Currently building: custom port scanners and automated reconnaissance scripts
+- 🌱 Currently learning: Web Application Security, OWASP Top 10, and AWS Cloud Security
+- ⚡ Fun fact: I enjoy solving labs on TryHackMe and Hack The HTB in my free time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- Languages: Python, Bash, HTML, CSS
+- Operating Systems: Kali Linux, Ubuntu, WSL ,Windows
+- Security Tools: Nmap, Burp Suite, Wireshark, Metasploit
+- Version Control: Git, GitHub
+
+### 📈 Practice & Learning Platforms
+- TryHackMe: [https://tryhackme.com/p/mahajanh606]
+- Hack The Box: [https://app.hackthebox.com/users/3459387]
+- PortSwigger Web Security Academy: [https://portswigger.net/users/youraccount/licenses]
+
+### 🧠 Interests
+- Vulnerability assessment and exploitation
+- Reconnaissance and offensive security automation
+- Web security and secure coding practices
+- Threat analysis and incident response basics
+
+### 📫 Connect With Me
+- LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/in/rohit-patil-b01760436]
+- Email: [rohanparil8492@gmail.com]
+- GitHub: [https://github.com/panda99-99]
+
+"Security is not a product, but a process." — Bruce Schneier
