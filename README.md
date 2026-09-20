@@ -8,7 +8,7 @@ An aspiring Ethical Hacker and Cyber Security Professional with a strong interes
 - ⚡ Fun fact: I enjoy solving labs on TryHackMe and Hack The HTB in my free time
 
 ### 🛠️ Tech Stack & Tools
-- Languages: Python, Bash, HTML, CSS
+- Languages: Python, C, HTML, CSS
 - Operating Systems: Kali Linux, Ubuntu, WSL ,Windows
 - Security Tools: Nmap, Burp Suite, Wireshark, Metasploit
 - Version Control: Git, GitHub
