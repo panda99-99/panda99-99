@@ -6,12 +6,17 @@ An aspiring Ethical Hacker and Cyber Security Professional with a strong interes
 - 🔭 Currently building: custom port scanners and automated reconnaissance scripts
 - 🌱 Currently learning: Web Application Security, OWASP Top 10, and AWS Cloud Security
 - ⚡ Fun fact: I enjoy solving labs on TryHackMe and Hack The HTB in my free time
+### 🛠 Tech Stack & Tools
 
-### 🛠️ Tech Stack & Tools
-- Languages: Python, C, HTML, CSS
-- Operating Systems: Kali Linux, Ubuntu, WSL ,Windows
-- Security Tools: Nmap, Burp Suite, Wireshark, Metasploit
-- Version Control: Git, GitHub
+**Languages & OS:**
+![Python](https://shields.io) ![C](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![Kali Linux](https://shields.io) ![Ubuntu](https://shields.io) ![Windows](https://shields.io)
+
+**Security Tools:**
+![Nmap](https://shields.io) ![Burp Suite](https://shields.io) ![Wireshark](https://shields.io) ![Metasploit](https://shields.io)
+
+**Version Control:**
+![Git](https://shields.io) ![GitHub](https://shields.io)
+
 
 ### 📈 Practice & Learning Platforms
 - TryHackMe: [https://tryhackme.com/p/mahajanh606]
