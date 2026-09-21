@@ -25,7 +25,7 @@ An aspiring Ethical Hacker and Cyber Security Professional with a strong interes
 - Threat analysis and incident response basics
 
 ### 📫 Connect With Me
-- LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/in/rohit-patil-b01760436]
+- LinkedIn: [https://www.linkedin.com/in/rohit-patil-b01760436]
 - Email: [rohanparil8492@gmail.com]
 - GitHub: [https://github.com/panda99-99]
 
