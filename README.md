@@ -4,14 +4,6 @@ An aspiring **Ethical Hacker** and **Cyber Security Professional** with a strong
 
 ---
 
-### 📊 GitHub Stats & Overview
-<p align="left">
-<img src="https://vercel.app" alt="Rohit's GitHub stats" height="160px" />
-<img src="https://vercel.app" alt="Top Languages" height="160px" />
-</p>
-
----
-
 ### 🔐 What I’m Up To
 - 🔭 **Currently building:** Custom port scanners and automated reconnaissance scripts
 - 🌱 **Currently learning:** Web Application Security, OWASP Top 10, and AWS Cloud Security
@@ -21,17 +13,16 @@ An aspiring **Ethical Hacker** and **Cyber Security Professional** with a strong
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & OS:**  
-`Python` `C` `HTML` `CSS` `Kali Linux` `Ubuntu` `WSL` `Windows`
-
-**Security & Version Control:**  
-`Nmap` `Burp Suite` `Wireshark` `Metasploit` `Git` `GitHub`
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages & OS** | `Python` `C` `HTML` `CSS` • `Kali Linux` `Ubuntu` `WSL` `Windows` |
+| **Security & Git** | `Nmap` `Burp Suite` `Wireshark` `Metasploit` • `Git` `GitHub` |
 
 ---
 
 ### 📈 Practice & Learning Platforms
-- 🛡️ **TryHackMe:** [mahajanh606](https://tryhackme.com/p/mahajanh606)
-- 📦 **Hack The Box:** [User Profile](https://app.hackthebox.com/users/3459387)
+- 🛡️ **TryHackMe:** [mahajanh606](https://tryhackme.com)
+- 📦 **Hack The Box:** [User Profile](https://hackthebox.com)
 - 🎓 **PortSwigger Academy:** Verified Learner
 
 ---
@@ -45,9 +36,9 @@ An aspiring **Ethical Hacker** and **Cyber Security Professional** with a strong
 ---
 
 ### 📫 Connect With Me
-- 💼 **LinkedIn:** [rohit-patil-b01760436](https://www.linkedin.com/in/rohit-patil-b01760436)
+- 💼 **LinkedIn:** [rohit-patil-b01760436](https://linkedin.com)
 - 📧 **Email:** rohanparil8492@gmail.com
-- 🐙 **GitHub:** [panda99-99](https://github.com/panda99-99)
+- 🐙 **GitHub:** [panda99-99](https://github.com)
 
 ---
 
